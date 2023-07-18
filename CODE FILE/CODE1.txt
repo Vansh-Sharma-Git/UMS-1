@@ -74,5 +74,5 @@ int main() {
 
     return 0;
 }
-// This is Code For Priority Que
+// This is Code For Priority Que .
 
